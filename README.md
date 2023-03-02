@@ -1,6 +1,9 @@
 # hw1_binary_hex_converter
-*```*
-#2023.03.02 maxine
+
+##<10進位制轉換為2進位和16進位>
+  
+```py
+#2023.03.02 max1n
 #Decimal Converter
 
 decimal = int(input("Decimal Number(0~255):"))
@@ -46,4 +49,4 @@ while n>=0 :
 print("Binary Number :",binary)
 
 #end
-*```*
+```
