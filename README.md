@@ -4,9 +4,8 @@
 
 
 
-
 ## 專案程式碼
-* [程式碼github網址:](https://github.com/max1nehour/hw1_binary_hex_converter)
+* [程式碼github網址:decimal_converter.ipynb](https://github.com/max1nehour/hw1_binary_hex_converter)
 
 ## 程式碼解析：
 
