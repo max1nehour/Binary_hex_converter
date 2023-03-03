@@ -5,7 +5,7 @@
 
 
 ## 專案程式碼
-* [程式碼github網址:decimal_converter.ipynb](https://github.com/max1nehour/hw1_binary_hex_converter/blob/51b5da368a722fa1b7a83d6330b2880a2029f1e4/decimal_converter.ipynb)
+* [程式碼github網址<decimal_converter.ipynb>](https://github.com/max1nehour/hw1_binary_hex_converter/blob/51b5da368a722fa1b7a83d6330b2880a2029f1e4/decimal_converter.ipynb)
 
 ## 程式碼解析：
 
