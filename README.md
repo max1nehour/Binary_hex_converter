@@ -9,15 +9,21 @@
 
 ## 程式碼解析：
 
+ * 確保輸入的數字在0~255之間。
+
 ```py
 #2023.03.02 max1n
 #Decimal Converter
 
-decimal = int(input("Decimal Number(0~255):"))
-if decimal <= 255 and decimal >= 0:
-  print("Decimal Number :",decimal)
-else:
-  print("ERROR: PLS enter numbers in the range of 0~255")
+decimal = 0
+while decimal >=0: 
+  decimal = int(input("Decimal Number(0~255):"))
+  if decimal <= 255 and decimal >= 0:
+    print("Decimal Number :",decimal)
+    break
+  else:
+    print("#ERROR: PLS enter numbers in the range of 0~255#")
+
 ```
 
 ### 10進位->16進位
