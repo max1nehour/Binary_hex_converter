@@ -1,4 +1,4 @@
-#### hw1_binary_hex_converter
+#### binary_hex_converter
 
 # 10進位制轉換為2進位和16進位
 
